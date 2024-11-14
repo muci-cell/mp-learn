@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="696413df-99f7-4183-be79-cd454cfec393" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-base/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-content/mp-learn-content-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-content/mp-learn-content-mapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-content/mp-learn-content-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-content/mp-learn-content-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-content/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-generator/src/main/java/BaseGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-generator/src/main/java/H2CodeGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-generator/src/main/java/MySQLGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-generator/src/main/java/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-generator/src/main/resources/db/data-mysql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-generator/src/main/resources/db/schema-mysql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-generator/src/main/resources/db/sql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp-learn-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/mp-learn-content/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/mp-learn-content/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/mp-learn-content/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/mp-learn-content/mapper/xml/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/mp-learn-content/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/mp-learn-content/service/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Chai\maven\apache-maven-3.8.4-bin\maven-repository" />
+        <option name="mavenHome" value="$USER_HOME$/maven/apache-maven-3.8.4-bin/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="C:\Users\Chai\maven\apache-maven-3.8.4-bin\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2on0GQZQawdiNTmehuVTtUZHlHe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="696413df-99f7-4183-be79-cd454cfec393" name="更改" comment="" />
+      <created>1731489935214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731489935214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
