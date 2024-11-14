@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb04fa99-5107-4cdd-bf8f-1408475da77b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-base/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-content/mp-learn-content-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-content/mp-learn-content-dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-content/mp-learn-content-dao/src/main/resources/xml/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-content/mp-learn-content-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-content/mp-learn-content-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-content/mp-learn-content-service/src/main/java/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-content/mp-learn-content-service/src/main/java/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-content/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-generator/src/main/java/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-generator/src/main/java/temp/temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-generator/src/main/resources/db/data-mysql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-generator/src/main/resources/db/schema-mysql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-generator/src/main/resources/db/sql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-learn-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mp-learn-content/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mp-learn-content/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mp-learn-content/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mp-learn.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Chai\maven\apache-maven-3.8.4-bin\maven-repository" />
+        <option name="mavenHome" value="使用 Maven 包装器" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\Users\Chai\maven\apache-maven-3.8.4-bin\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2omDZNwTeNJeLLueap0D1pEuUh5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chai/Desktop/mp-learn&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.153125&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="impl" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chai\Desktop\mp-learn\mp-learn-content\mp-learn-content-service\src\main\java" />
+      <recent name="C:\Users\Chai\Desktop\mp-learn\mp-learn-content\mp-learn-content-dao\src\main\resources" />
+      <recent name="C:\Users\Chai\Desktop\mp-learn\mp-learn-content\mp-learn-content-model\src\main\java\po" />
+      <recent name="C:\Users\Chai\Desktop\mp-learn\mp-learn-content\mp-learn-content-dao\src\main\java\dao" />
+      <recent name="C:\Users\Chai\Desktop\mp-learn\mp-learn-content\mp-learn-content-api\src\main\java\controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.main">
+    <configuration name="MySQLGeneratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MySQLGeneratorTest" />
+      <module name="mp-learn-generator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="mp-learn-generator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.main" />
+        <item itemvalue="应用程序.MySQLGeneratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="eb04fa99-5107-4cdd-bf8f-1408475da77b" name="更改" comment="" />
+      <created>1731465915645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731465915645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
