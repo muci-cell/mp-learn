@@ -1,13 +1,10 @@
 package service.impl;
-import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import mapper.UserMapper;
 import org.springframework.stereotype.Service;
 import po.User;
 import service.IUserService;
-
-import java.util.Collection;
-import java.util.List;
 
 /**
  * <p>
